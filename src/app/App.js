@@ -118,7 +118,7 @@ class App extends Component {
 
     return(
       <div className="container">
-       <center> <h1>Books Library</h1></center>
+       <center> <h1>Book Library Systemt</h1></center>
         <hr />
         <div className="row">
         <div className = "col-lg-12">
