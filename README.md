@@ -7,7 +7,7 @@ Download source code
 # Step 2 : 
  `npm install`  
  
- execute npm install to fetch npm module in local 
+ execute npm install command to fetch npm module in local 
  
 # Step 3 : 
 `npm start` 
